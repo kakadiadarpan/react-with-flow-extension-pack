@@ -1,0 +1,42 @@
+{
+    "name": "react-with-flow-extension-pack",
+    "displayName": "React with flow extension pack",
+    "description": "A collection of extensions for working with Node, React, Vanilla JS applications along with flow and git management extensions in VS Code",
+    "version": "0.0.1",
+    "publisher": "kakadiadarpan",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kakadiadarpan/react-with-flow-extension-pack/"
+    },
+    "extensionPack": [
+        "christian-kohler.npm-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "flowtype.flow-for-vscode",
+        "formulahendry.auto-close-tag",
+        "github.vscode-pull-request-github",
+        "hnw.vscode-auto-open-markdown-preview",
+        "pflannery.vscode-versionlens",
+        "PKief.material-icon-theme",
+        "pnp.polacode",
+        "prisma.vscode-graphql",
+        "shan.code-settings-sync",
+        "streetsidesoftware.code-spell-checker",
+        "waderyan.gitblame",
+        "wayou.vscode-todo-highlight",
+        "whtouche.vscode-js-console-utils",
+        "wix.vscode-import-cost",
+        "wmaurer.change-case",
+        "xabikos.javascriptsnippets"
+    ]
+}
